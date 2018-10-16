@@ -1,0 +1,8 @@
+p{
+	border-top: 20px solid red;
+	border-left: 30px solid blue;
+	border-right: 30px solid yellow;
+	border-bottom: 10px dashed green;
+	font-weight: bold;
+	text-align:center;
+	}
